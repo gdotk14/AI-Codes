@@ -1,4 +1,6 @@
-# LIST OF AI PROBLEMS & SOLUTIONS  
+# LIST OF AI PROBLEMS & SOLUTIONS 
+## GAURAV KUMAR-VU22CSEN0101555
+## ARTIFICIAL INTELLIGENCE LAB-CSEN2031P
 
 ---
 
@@ -117,5 +119,3 @@ The goal is to place **eight queens** on an 8×8 chessboard so that no two queen
 
 ---
 
-## Conclusion  
-These problems showcase **AI problem-solving techniques**, including **search algorithms, heuristics, backtracking, and state-space exploration**. They are fundamental for understanding AI in **robotics, game development, and real-world optimization problems**.  
